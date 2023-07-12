@@ -2,6 +2,11 @@
 
 Handwritten Arithmetic/mathematical symbols Recognition and Calculation
 
+手写四则运算识别 + 计算
+
+> 我本来想写个博客讲讲这个帮别人做了三天的小project。但是我实在太懒了，代码中的注释已经足够懂中文小伙伴看得懂了。
+> Mnist+ 是我做了扩展的数据集，欢迎使用。其中包含了Mnist数据集+手写的运算符号的数据集，一共16种
+
 # 1 Repository structure
 
 - `mnist+` : training dataset（16 kinds symbols:`mnist` dataset + `+ - * / ( )` symbols） and test dataset(handwritten Arithmetic)
